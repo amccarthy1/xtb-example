@@ -1,0 +1,15 @@
+{
+  "name": "xtb-example",
+  "version": "1.0.0",
+  "description": "Example package for xtb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam McCarthy",
+  "license": "MIT",
+  "dependencies": {
+    "tmi": "^2.0.0",
+    "xtb": "github:amccarthy1/xtb"
+  }
+}
