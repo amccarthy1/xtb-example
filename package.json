@@ -8,6 +8,10 @@
     "start": "node app.js"
   },
   "author": "Adam McCarthy",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amccarthy1/xtb.git"
+  },
   "license": "MIT",
   "dependencies": {
     "tmi": "^2.0.0",
